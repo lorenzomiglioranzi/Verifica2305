@@ -4,4 +4,4 @@ Poi crea una classe libreria con la collezione che ti sembra più adatta e fai u
 Successivamente stampa l’intera libreria
 
 # SCHEMA UML
-!img[codice1](codice1.JPG)
+ !img[codice1](codice1.JPG)
