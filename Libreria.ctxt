@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Libreria
+comment0.text=\r\n\ Aggiungi\ qui\ una\ descrizione\ della\ classe\ LIbreria\r\n\ \r\n\ @author\ (il\ tuo\ nome)\ \r\n\ @version\ (un\ numero\ di\ versione\ o\ una\ data)\r\n
+comment1.params=
+comment1.target=Libreria()
+comment1.text=\r\n\ Costruttore\ degli\ oggetti\ di\ classe\ \ LIbreria\r\n
+comment2.params=libro
+comment2.target=void\ aggiungiLibro(Libro)
+comment3.params=anno
+comment3.target=void\ eliminaProdotto(int)
+comment4.params=codice
+comment4.target=Libro\ ricercaLibro(int)
+comment5.params=
+comment5.target=Libro[]\ elencaLibreria()
+numComments=6
