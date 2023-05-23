@@ -25,8 +25,20 @@ nella classe `Libreria`, il metodo `Libreria` che è il costruttore, poi il meto
 `cd $home/<percorso>/<nomeCartella>`: sincronizzo la mia cartella
 
 # comandi usati per inserire il README.md su git
- ![comandi5](comandi5.JPG)
+ git init --> inzializza la repository locale 
+ git add README.md --> inseriento del file README.md nell'areea di stagign 
+ git commit -m "first commit" --> creazione del primo commit, che serve a sinconizzare 
+ git branch -M main --> ceazione del branch main, da usare con default 
+ git remotr add origing https://github.com/>username>/<nomeEs> --> connetto a git 
+ gti push -u origin main --> sincronizzare del repository remoto con quello locael 
+ 
+ 
+ gti push https.//<username>:<token>@github.com/<username>/<reponame>.git
  
 # altri comandi git
- ![comandi6](comandi6.JPG)
+` : inserimento deliminìtato 
+<>: citazione
+# : permette di fare i titoli e quindi dividere la repository 
+
+!img[](img.pgn)
  
